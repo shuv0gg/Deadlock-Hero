@@ -1,0 +1,48 @@
+# 🦸‍♂️ DeadLock Hero
+
+**DeadLock Hero** is an interactive web app for simulating OS deadlock scenarios, featuring Banker's Algorithm and Resource Allocation Graph (RAG) visualization. It helps students and educators understand complex concepts like resource management, safe sequences, and deadlock prevention through an intuitive interface.
+
+---
+
+## ✨ Features
+
+- **Real-Time Detection:** Instantly analyze states to detect potential deadlocks.
+- **Quick Mode:** Step through Bankers Algorithm and RAG to visualize system safety.
+- **Smart Mode:** Utilize interactive charts and node-based graphs for in-depth analysis.
+- **Learning Center:** Integrated educational content on core deadlock theories.
+- **Modern UI:** Tailwind CSS and Framer Motion powered interface with responsive design.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React 19 (Vite)
+- **Styling/Motion:** Tailwind CSS (v4), Framer Motion
+- **Visuals:** Recharts, React Flow (@xyflow/react)
+- **Tools:** React Router, React Hot Toast, Oxlint
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- [Node.js](https://nodejs.org)
+
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com
+   cd Deadlock-Hero
+   ```
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+3. **Start development server:**
+   ```bash
+   npm run dev
+   ```
+4. **Build (Optional):**
+   ```bash
+   npm run build
+   ```
